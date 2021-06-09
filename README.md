@@ -52,7 +52,7 @@ These are the application that you would use to work with them to develop, ‘mi
 #### Envision Blockchain
 - Website
 - Primary Goal: 
-- Major Partnerships
+- Major Partnerships:
 
 ---
 
