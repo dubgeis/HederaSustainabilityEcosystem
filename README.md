@@ -48,6 +48,12 @@ These are the application that you would use to work with them to develop, ‘mi
 - Primary Goal: 
 - Major Partnerships
 
+### Help Me Build (Systems Integrators)
+#### Envision Blockchain
+- Website
+- Primary Goal: 
+- Major Partnerships
+
 ---
 
 ## Acknowledgements & Contributions
