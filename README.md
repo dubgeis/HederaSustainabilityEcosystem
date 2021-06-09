@@ -51,8 +51,7 @@ These are the application that you would use to work with them to develop, ‘mi
 ## Acknowledgements & Contributions
 The information in this document is a collective effort from many people including:
 
-Sergey Metelin, Ken Anderson, Wes Geisenberger, and all the builders in the Hedera sustinability
-and many more.
+Sergey Metelin, Ken Anderson, Wes Geisenberger, all the builders in the Hedera sustinability community, and many more.
 
 Please submit a [pull-request](https://github.com/dubgeis/SustainabilityEcosystem/pulls) or [issue](https://github.com/dubgeis/SustainabilityEcosystem/issues) if you would like to make any changes or have any comments.
 
