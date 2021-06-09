@@ -1,5 +1,5 @@
 # Hedera Sustainability Ecosystem
-# A guide to sustainability focused projects on Hedera
+A short guide to sustainability focused projects on Hedera
 
 ## Introduction
 *This article is not a comprehensive “sustainability for beginners” guide. It’s more of a very brief (as possible) **first step** towards a guide for ecosystem-developers who wants to particpate in sustainability markets on Hedera. Since this area is growing at a pretty crazy pace (I'm personally aware of 25+ projects on Hedera today) **the information below is likely to go out of date relatively quickly**. We'll try to keep it up to date via [pull-requests](https://github.com/dubgeis/SustainabilityEcosystem/pulls) and [issues](https://github.com/dubgeis/SustainabilityEcosystem/issues). And I **hope the platforms themselves will add relevant information, “Statement of Values”, and roadmaps to their own site speaking to auditability around high quality carbon offsets/REC's**.*
