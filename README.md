@@ -35,10 +35,11 @@ These are the application that you would use to work with them to develop, ‘mi
 - Open Source MRV Protocol
 - Major Partnerships: TBA
 
-#### Dovu - open marketplace for digital art
+#### Dovu - Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](dovu.earth)
 - Primary Goal: **Digital MRV (Offsets)**/**DeFi Market (Uniber)** (by Matt Smithies, also of SportsIcon & Tapmydata) 
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
+- [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera)
 
 ### Demand Platforms
 #### TBA
