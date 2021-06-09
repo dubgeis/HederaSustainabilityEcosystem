@@ -1,4 +1,4 @@
-# SustainabilityEcosystem
+# Hedera Sustainability Ecosystem
 # A guide to sustainability focused projects on Hedera
 
 ## Introduction
