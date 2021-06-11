@@ -55,6 +55,9 @@ These are the application that you would use to work with them to develop, ‘mi
 - Primary Goal: 
 - Major Partnerships:
 
+### Carbon Negative on Hedera
+- List your application & [CET Token ID](https://github.com/InterWorkAlliance/Sustainability/blob/main/vem/demand/cet.md) + Offset Source.
+
 ---
 
 ## Acknowledgements & Contributions
