@@ -46,7 +46,8 @@ These are the application that you would use to work with them to develop, ‘mi
 #### TBA
 - Website
 - Primary Goal: 
-- Major Partnerships
+- Major Partnerships:
+- Estimated Demand:
 
 ### Help Me Build (Systems Integrators)
 #### Envision Blockchain
