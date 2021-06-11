@@ -42,6 +42,11 @@ These are the application that you would use to work with them to develop, ‘mi
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
 - [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera)
 
+#### [CO2 Farmers Market](https://co2farmersmarket.com/eadon-forest/) - The Kickstarter of Carbon Credits
+- [co2farmersmarket.com/](https://co2farmersmarket.com/)
+- Primary Goal: **Carbon Offset Fundraising Platfrom**/**Offset Issuance** 
+- Major Partnerships: Winner of _____ hackathon
+
 ### Demand Platforms
 #### TBA
 - Website
