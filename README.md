@@ -36,7 +36,7 @@ These are the application that you would use to work with them to develop, ‘mi
 - Major Partnerships: TBA
 - Summary: RECDeFi is an automated, decentralized, and scalable marketplace that accelerates investment in clean energy and climate solutions by making it faster, cheaper, and easier to trade renewable energy credits, carbon offsets, and other environmental commodities. RECDeFi provides time-stamped asset-linked digital renewable energy credits that enable buyers to match electricity consumption with renewable energy generation on a 24/7 basis to reduce carbon emissions associated with energy use.
 
-#### Dovu - Carbon Offsets Issuance Platform & Marketplace
+#### [Dovu](https://hedera.com/users/dovu) - Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](dovu.earth)
 - Primary Goal: **Digital MRV (Offsets)**/**DeFi Market (Uniber)** (by Matt Smithies, also of SportsIcon & Tapmydata) 
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
