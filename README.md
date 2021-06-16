@@ -2,7 +2,7 @@
 A short guide to sustainability focused projects on Hedera
 
 ## Introduction
-*This article is not a comprehensive “sustainability for beginners” guide. It’s more of a very brief (as possible) **first step** towards a guide for ecosystem-developers who wants to particpate in sustainability markets on Hedera. Since this area is growing at a pretty crazy pace (I'm personally aware of 25+ projects on Hedera today) **the information below is likely to go out of date relatively quickly**. We'll try to keep it up to date via [pull-requests](https://github.com/dubgeis/SustainabilityEcosystem/pulls) and [issues](https://github.com/dubgeis/SustainabilityEcosystem/issues). And I **hope the platforms themselves will add relevant information, “Statement of Values”, and roadmaps to their own site speaking to auditability around high quality carbon offsets/REC's**.*
+*This article is not a comprehensive “sustainability for beginners” guide. It’s more of a very brief (as possible) **first step** towards a guide for ecosystem-developers who wants to particpate in sustainability markets on Hedera. Since this area is growing at a pretty crazy pace **the information below is likely to go out of date relatively quickly**. We'll try to keep it up to date via [pull-requests](https://github.com/dubgeis/SustainabilityEcosystem/pulls) and [issues](https://github.com/dubgeis/SustainabilityEcosystem/issues). And I **hope the platforms themselves will add relevant information, “Statement of Values”, and roadmaps to their own site speaking to auditability around high quality carbon offsets/REC's**.*
 
 ***For more up-to-date information, daily discussions and reviews please visit***
 - [Interwork Alliance Sustainability Repo](https://interworkalliance.github.io/Sustainability/)
@@ -41,11 +41,6 @@ These are the application that you would use to work with them to develop, ‘mi
 - Primary Goal: **Digital MRV (Offsets)**/**DeFi Market (Unibar)** (by Matt Smithies, also of SportsIcon & Tapmydata) 
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
 - [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera)
-
-#### [CO2 Farmers Market](https://co2farmersmarket.com/eadon-forest/) - The Kickstarter of Carbon Credits
-- [co2farmersmarket.com/](https://co2farmersmarket.com/)
-- Primary Goal: **Carbon Offset Fundraising Platfrom**/**Offset Issuance** 
-- Major Partnerships: Winner of _____ hackathon
 
 ### Demand Platforms
 #### TBA
