@@ -13,7 +13,7 @@ A short guide to sustainability focused projects on Hedera
 
 ## Overview
 
-
+[The Latest](https://hedera.com/blog/sustainable-building-blocks-with-hedera-hashgraph)
 ---
 
 ## Glossary
