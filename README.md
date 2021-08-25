@@ -8,12 +8,14 @@ A short guide to sustainability focused projects on Hedera
 - [Interwork Alliance Sustainability Repo](https://interworkalliance.github.io/Sustainability/)
 - [The Hedera Discord for Developer Chats](https://discord.com/invite/yKSnaMk7Px)
 - [Docs](https://docs.hedera.com/guides/)
+- [Is Hedera Carbon Neutral/Negative?](https://hedera.com/blog/going-carbon-negative-at-hedera-hashgraph)
+- [Hedera Environmental Footprint Report](https://hedera.com/blog/power-transition-blockchain-sustainability-hedera-hashgraph)
 
 ---
 
 ## Overview
 
-[The Latest](https://hedera.com/blog/sustainable-building-blocks-with-hedera-hashgraph)
+- [The Latest](https://hedera.com/blog/sustainable-building-blocks-with-hedera-hashgraph)
 ---
 
 ## Glossary
@@ -26,7 +28,7 @@ A deeper glossary of industry terms can be found [here](https://github.com/Inter
 ---
 
 ## Sustainbility Platforms & Marketplaces
-These are the application that you would use to work with them to develop, ‘mint’ and sell your carbon credits following the IWA Standards. We encourage applications committed to sustainability and offsetting on Hedera to submit a pull request and sign up as a deamnd platform below. For those who'd like 
+These are the application that you would use to work with them to develop, ‘mint’ and sell your carbon credits following the [IWA Standards](https://hedera.com/blog/hedera-hashgraph-and-application-partners-collaborate-with-the-interwork-alliance-on-sustainability-working-group-key-initiatives). We encourage applications committed to sustainability and offsetting on Hedera to submit a pull request and sign up as a deamnd platform below. For those who'd like 
 
 ### Supply Platforms
 #### [RECDeFi](https://hedera.com/users/recdefi) - Carbon Credit, REC, Commodities Issuance Platform & Marketplace
