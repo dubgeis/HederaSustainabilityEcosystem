@@ -42,8 +42,8 @@ These are the application that you would use to work with them to develop, ‘mi
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
 - [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera)
 
-#### [earthimpact](https://hedera.com/users/earthimpact) - Environmental and Social Impact Projects Platform
-- [Earthimpact.com](earthimpact.com)
+#### [Earthimpact](https://hedera.com/users/earthimpact) - Environmental and Social Impact Projects Platform
+- [earthimpact.com](earthimpact.com)
 - Primary Goal: **Digital MRV (Carbon Credits)**/**Tokenomics**
 - Open Source MRV Protocol
 - Major Partnerships: TBA
