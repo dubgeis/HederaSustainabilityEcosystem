@@ -40,7 +40,7 @@ These are the application that you would use to work with them to develop, ‘mi
 
 #### [Dovu](https://hedera.com/users/dovu) - Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](https://dovu.earth)
-- Primary Goal: **Digital MRV (Offsets)**/**DeFi Market (Unibar)** (by Matt Smithies, also of SportsIcon & Tapmydata) 
+- Primary Goal: **Digital MRV (Offsets)**/**DeFi Market (Unibar)**
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
 - [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera)
 
