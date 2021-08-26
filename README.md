@@ -23,7 +23,7 @@ A deeper glossary of industry terms can be found [here](https://github.com/Inter
 
 ---
 ## Ways to make it better (drop your requests below)
-- An Interactive Hedera explorer with real time data representations for ESG tokens (ex. [https://txstreet.com/](https://txstreet.com/)
+- An Interactive Hedera explorer with real time data representations for ESG tokens (ex. [https://txstreet.com/](https://txstreet.com/))
 ---
 
 ## Sustainbility Platforms & Marketplaces
