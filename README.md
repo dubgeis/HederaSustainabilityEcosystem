@@ -22,9 +22,8 @@ A short guide to sustainability focused projects on Hedera
 A deeper glossary of industry terms can be found [here](https://github.com/InterWorkAlliance/Sustainability/blob/main/glossary.md)
 
 ---
-## Ways to make it better
-
-
+## Ways to make it better (drop your requests below)
+- An Interactive Hedera explorer with real time data representations for ESG tokens (ex. [https://txstreet.com/](https://txstreet.com/)
 ---
 
 ## Sustainbility Platforms & Marketplaces
