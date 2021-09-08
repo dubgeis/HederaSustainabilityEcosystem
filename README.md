@@ -9,7 +9,7 @@ A short guide to sustainability focused projects on Hedera
 - [The Hedera Discord for Developer Chats](https://discord.com/invite/yKSnaMk7Px)
 - [Docs](https://docs.hedera.com/guides/)
 - [Is Hedera Carbon Neutral/Negative?](https://hedera.com/blog/going-carbon-negative-at-hedera-hashgraph)
-- [Hedera Environmental Footprint Report](https://hedera.com/blog/power-transition-blockchain-sustainability-hedera-hashgraph)
+- [Hedera Environmental Footprint Report by UCL Center for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk/blockchain-energy-consumption/)
 
 ---
 
