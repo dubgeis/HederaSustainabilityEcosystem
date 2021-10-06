@@ -24,6 +24,10 @@ A deeper glossary of industry terms can be found [here](https://github.com/Inter
 ---
 ## Ways to make it better (drop your requests below)
 - An Interactive Hedera explorer with real time data representations for ESG tokens (ex. [https://txstreet.com/](https://txstreet.com/))
+- An Index scoring all ESG assets on Hedera for data granularity, trust (sensor/manual), and risks
+- Slick Carbon Wallets based on Offsetting Achievements against CET based emissions.
+- NFT rewards protocol for Offsets/Removals burned against CET's (minting an NFT based on total emissions offset) tied to companies [CDP](https://www.cdp.net/en) Reports/Audits 
+ 
 ---
 
 ## Sustainbility Platforms & Marketplaces
