@@ -41,11 +41,22 @@ These are the application that you would use to work with them to develop, ‘mi
 - Major Partnerships: TBA
 - Summary: RECDeFi is an automated, decentralized, and scalable marketplace that accelerates investment in clean energy and climate solutions by making it faster, cheaper, and easier to trade renewable energy credits, carbon offsets, and other environmental commodities. RECDeFi provides time-stamped asset-linked digital renewable energy credits that enable buyers to match electricity consumption with renewable energy generation on a 24/7 basis to reduce carbon emissions associated with energy use.
 
-#### [Dovu](https://hedera.com/users/dovu) - Carbon Offsets Issuance Platform & Marketplace
+#### [Dovu](https://hedera.com/users/dovu) - Trusted Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](https://dovu.earth)
-- Primary Goal: **Digital MRV (Offsets)**/**DeFi Market (Unibar)**
+- Primary Goal: **Digital MRV (Offsets)**/**Carbon Marketplace**/**Developer Tools**
 - Major Partnerships: Jaguar Landrover, Creative England (a fund backed by the UK Government)
-- [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera)
+- Summary: DOVU is building the trust layer for carbon offset integrity with a marketplace for instant and auditable retirement.
+- Hedera Project References:
+  - [Proof of Carbon on Hedera](https://www.dovu.earth/news/hedera) 
+  - [Earth Week 2021: Dovu is tokenizing carbon offsets](https://www.youtube.com/watch?v=E0snNSQI1qc)
+  - [DOVU: DeFi Carbon Offsetting on Hedera Hashgraph](https://www.youtube.com/watch?v=gy0ATUwL6L8)
+  - [Trust Enterprises](https://trust.enterprises/): The minting and marketplace backbone that connects DOVU to all Hedera services. A foundational layer to record any decentralized logic and prove intent. Rapidly augment your SaaS with provable trust, no blockchain experience required. At the fraction of the cost of ethereum or bitcoin. 
+    - Check out the [documentation](https://docs.trust.enterprises/) for a serverless API for building consensus, with a Laravel client to make building with Hedera as simple as possible, even in [no-code or low-code environments](https://twitter.com/flyinggazelle/status/1443839460169429019). 
+    - [Unibar (Hedera21 prototype)](https://github.com/trustenterprises/unibar-prototype) If you need a gasless interface, inbuilt private key management and basic ethereum auth. With minting, management, pooling, and API capability.
+    - [Dynamic NFT Specification](https://github.com/trustenterprises/hedera-dnft-specification) This is a description of the work in progress for implementing Dynamic Non-Fungible Tokens (dNFT) on Hedera Hashgraph. The goal is to bring together new community consensus on token standards and new primitives within the ecosystem to ensure interoperability and reduce fragmentation between products.
+  - Hedera Improvement Proposal Discussions
+    - [Ecological Carbon Taxonomy](https://github.com/hashgraph/hedera-improvement-proposal/discussions/83) Introduce a recommended path of the implementation of minting and maintenance of ecological tokens based on IWA sustainability specifications from the voluntary ecological markets taskforce. This combines and is the first use-case of dNFT/dFT on Hedera to provide an ability for tokens to attach an unlimited amount of evidence.
+    - [Hedera Ledger Service (HLS)](https://github.com/hashgraph/hedera-improvement-proposal/discussions/131) A novel proposal on a new native liquidity service on Hedera to offer deep liquidity at a network-level. 
 
 #### [Earthimpact](https://hedera.com/users/earthimpact) - Environmental and Social Impact Projects Platform
 - [earthimpact.com](https://earthimpact.com/)
