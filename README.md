@@ -34,13 +34,6 @@ A deeper glossary of industry terms can be found [here](https://github.com/Inter
 These are the application that you would use to work with them to develop, ‘mint’ and sell your carbon credits following the [IWA Standards](https://hedera.com/blog/hedera-hashgraph-and-application-partners-collaborate-with-the-interwork-alliance-on-sustainability-working-group-key-initiatives). We encourage applications committed to sustainability and offsetting on Hedera to submit a pull request and sign up as a deamnd platform below. For those who'd like 
 
 ### Supply Platforms
-#### [RECDeFi](https://hedera.com/users/recdefi) - Carbon Credit, REC, Commodities Issuance Platform & Marketplace
-- [recdefi.com](https://recdefi.com)
-- Primary Goal: **Digital MRV (REC)**/**Automated Market**
-- Open Source MRV Protocol
-- Major Partnerships: TBA
-- Summary: RECDeFi is an automated, decentralized, and scalable marketplace that accelerates investment in clean energy and climate solutions by making it faster, cheaper, and easier to trade renewable energy credits, carbon offsets, and other environmental commodities. RECDeFi provides time-stamped asset-linked digital renewable energy credits that enable buyers to match electricity consumption with renewable energy generation on a 24/7 basis to reduce carbon emissions associated with energy use.
-
 #### [Dovu](https://hedera.com/users/dovu) - Trusted Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](https://dovu.earth)
 - Primary Goal: **Digital MRV (Offsets)**/**Carbon Marketplace**/**Developer Tools**
@@ -64,6 +57,13 @@ These are the application that you would use to work with them to develop, ‘mi
 - Open Source MRV Protocol
 - Major Partnerships: TBA
 - Summary: Earth Impact is a platform that empower producer and consumers to trade carbon credits, renewable energy and other environmental and social impact projects into a core interaction solution.
+
+#### [RECDeFi](https://hedera.com/users/recdefi) - Carbon Credit, REC, Commodities Issuance Platform & Marketplace
+- [recdefi.com](https://recdefi.com)
+- Primary Goal: **Digital MRV (REC)**/**Automated Market**
+- Open Source MRV Protocol
+- Major Partnerships: TBA
+- Summary: RECDeFi is an automated, decentralized, and scalable marketplace that accelerates investment in clean energy and climate solutions by making it faster, cheaper, and easier to trade renewable energy credits, carbon offsets, and other environmental commodities. RECDeFi provides time-stamped asset-linked digital renewable energy credits that enable buyers to match electricity consumption with renewable energy generation on a 24/7 basis to reduce carbon emissions associated with energy use.
 
 ### Demand Platforms
 #### TBA
