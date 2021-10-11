@@ -36,7 +36,7 @@ These are the application that you would use to work with them to develop, ‘mi
 ### Open Source Projects
 #### [Guardian](https://github.com/hashgraph/guardian) - A project to enable users to create auditable, publicly discoverable, ESG/Sustainability Assets
 - This project's initial contribution was done in close collaboration with Envision Blockchain, Dovu, and others. It is based on the IWA Sustainability business working group's [Voluntary Ecological Markets Taskforce](https://github.com/InterWorkAlliance/Sustainability/tree/main/vem) ongoing work.
-- Relevant HIPS for the Guardian include: [HIP - 19](), [HIP - 28](), & [HIP - ___]().
+- Relevant HIPS for the Guardian include: [HIP - 19](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-19.md), [HIP - 28](https://github.com/EnvisionBlockchain/hedera-improvement-proposal/blob/master/HIP/hip-28.md), & [HIP - 29]().
 
 ### Supply Platforms
 #### [Dovu](https://hedera.com/users/dovu) - Trusted Carbon Offsets Issuance Platform & Marketplace
