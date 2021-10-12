@@ -65,6 +65,12 @@ These are the application that you would use to work with them to develop, ‘mi
 - Major Partnerships: TBA
 - Summary: RECDeFi is an automated, decentralized, and scalable marketplace that accelerates investment in clean energy and climate solutions by making it faster, cheaper, and easier to trade renewable energy credits, carbon offsets, and other environmental commodities. RECDeFi provides time-stamped asset-linked digital renewable energy credits that enable buyers to match electricity consumption with renewable energy generation on a 24/7 basis to reduce carbon emissions associated with energy use.
 
+#### [ValueNature](https://hedera.com/users/valuenature) - Biodiversity Credit Issuance Platform & Marketplace
+- [valuenature.earth](https://valuenature.earth)
+- Primary Goal: **Digital MRV (Biodiversity Token)**/**Automated Market**
+- Major Partnerships: [Conserve Global](https://conserveglobal.earth/) 
+- Summary: ValueNature is creating a Biodiversity metric and MRV framework to scientifically quantify biodiversity and is implementing the Hedera Guardian network to immutably create the data traceability to mint cross-chain comparable Biodiversity credits.
+
 ### Demand Platforms
 #### TBA
 - Website
