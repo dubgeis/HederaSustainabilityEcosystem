@@ -69,7 +69,7 @@ These are the application that you would use to work with them to develop, ‘mi
 - [valuenature.earth](https://valuenature.earth)
 - Primary Goal: **Digital MRV (Biodiversity Token)**/**Automated Market**
 - Major Partnerships: [Conserve Global](https://conserveglobal.earth/) 
-- Summary: ValueNature is creating a Biodiversity metric and MRV framework to scientifically quantify biodiversity and is implementing the Hedera Guardian network to immutably create the data traceability to mint cross-chain comparable Biodiversity credits.
+- Summary: ValueNature is creating a Biodiversity metric and MRV framework to scientifically quantify biodiversity. Using NFTs and FTs coupled with device-level edge monitoring, reporting, and verification we trace verified data to a specific ESG asset and issue our Biodiversity credits.
 
 ### Demand Platforms
 #### TBA
