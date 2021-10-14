@@ -71,6 +71,13 @@ These are the application that you would use to work with them to develop, ‘mi
 - Major Partnerships: [Conserve Global](https://conserveglobal.earth/) 
 - Summary: ValueNature is creating a Biodiversity metric and MRV framework to scientifically quantify biodiversity. Using NFTs and FTs coupled with device-level edge monitoring, reporting, and verification we trace verified data to a specific ESG asset and issue our Biodiversity credits.
 
+#### [SUKU Sustain](https://www.suku.world/suku-omni-1/#omni-sustain) - Supply Chain Environmental Impact Carbon Calculator & Carbon Offset Tool
+- [suku.world](https://www.suku.world/suku-omni-1/#omni-sustain)
+- Primary Goal:  Carbon Calculator/Consumer Exchange
+- Major Partnerships: [Carbon Analytics](https://www.co2analytics.com/), [Moss.Earth](https://moss.earth)
+- Summary: To empower brands and customers in the battle against climate change, we’ve integrated the SUKU Scanner app with Carbon Analytics and Moss.Earth.  Our integration with Carbon Analytics allows brands to calculate their CO2 footprint by tracing products from raw ingredients to finished good and, therefore offer differentiated green products with attributes that consumers can view and verify.  Our integration with Moss.Earth allows climate conscious customers to purchase carbon credits to offset the footprint of their purchases while supporting Amazon rainforest initiatives.
+
+
 ### Demand Platforms
 #### TBA
 - Website
