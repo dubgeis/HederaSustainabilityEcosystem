@@ -111,3 +111,6 @@ Pull requests:
 ---
 ## Jobs (Post your jobs in the ecosystem here)
 
+[Hedera Ecosystem Jobs Page](https://careers.hedera.community/)
+
+
