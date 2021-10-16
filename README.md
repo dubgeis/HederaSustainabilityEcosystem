@@ -51,6 +51,12 @@ These are the application that you would use to work with them to develop, ‘mi
     - [Ecological Carbon Taxonomy](https://github.com/hashgraph/hedera-improvement-proposal/discussions/83) Introduce a recommended path of the implementation of minting and maintenance of ecological tokens based on IWA sustainability specifications from the voluntary ecological markets taskforce. This combines and is the first use-case of dNFT/dFT on Hedera to provide an ability for tokens to attach an unlimited amount of evidence.
     - [Hedera Ledger Service (HLS)](https://github.com/hashgraph/hedera-improvement-proposal/discussions/131) A novel proposal on a new native liquidity service on Hedera to offer deep liquidity at a network-level. 
 
+#### [Agryo](https://hedera.com/users/agryo) - Agriculture Data Provider
+- [https://www.agryo.com/](https://www.agryo.com/)
+- Primary Goal: Provide automatic environmental services data oracle for digital assets and financial services 
+- Summary: Agryo provide risk intelligence capabilities by the combination of over 500 variables plus ML/AI modelling and DLT data integrity control. Supporting operations in environmental services (like carbon credits and forest protection) and financial services for farmers (like credit and insurance), from origination, to monitoring daily during contracts and supporting fraud detection and portfolio management for any place one Earth. 
+
+
 #### [Earthimpact](https://hedera.com/users/earthimpact) - Environmental and Social Impact Projects Platform
 - [earthimpact.com](https://earthimpact.com/)
 - Primary Goal: **Digital MRV (Carbon Credits)**/**Tokenomics**
