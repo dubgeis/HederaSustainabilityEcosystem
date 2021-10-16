@@ -33,6 +33,11 @@ A deeper glossary of industry terms can be found [here](https://github.com/Inter
 ## Sustainbility Platforms & Marketplaces
 These are the application that you would use to work with them to develop, ‘mint’ and sell your carbon credits following the [IWA Standards](https://hedera.com/blog/hedera-hashgraph-and-application-partners-collaborate-with-the-interwork-alliance-on-sustainability-working-group-key-initiatives). We encourage applications committed to sustainability and offsetting on Hedera to submit a pull request and sign up as a deamnd platform below. For those who'd like 
 
+### Open Source Projects
+#### [Guardian](https://github.com/hashgraph/guardian) - A project to enable users to create auditable, publicly discoverable, Sustainability Assets
+- This project's initial contribution was done in close collaboration with Envision Blockchain, Dovu, and others. It is based on the IWA Sustainability Business Working Group's [Voluntary Ecological Markets Taskforce](https://github.com/InterWorkAlliance/Sustainability/tree/main/vem) ongoing work.
+- Relevant HIP's for the Guardian include: [HIP - 19](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-19.md), [HIP - 28](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-28.md), & [HIP - 29](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-29.md).
+
 ### Supply Platforms
 #### [Dovu](https://hedera.com/users/dovu) - Trusted Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](https://dovu.earth)
