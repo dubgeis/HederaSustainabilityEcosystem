@@ -38,6 +38,8 @@ These are the application that you would use to work with them to develop, ‘mi
 - This project's initial contribution was done in close collaboration with Envision Blockchain, Dovu, and others. It is based on the IWA Sustainability Business Working Group's [Voluntary Ecological Markets Taskforce](https://github.com/InterWorkAlliance/Sustainability/tree/main/vem) ongoing work.
 - Relevant HIP's for the Guardian include: [HIP - 19](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-19.md), [HIP - 28](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-28.md), & [HIP - 29](https://github.com/hashgraph/hedera-improvement-proposal/blob/master/HIP/hip-29.md).
 
+#### [ARMs](https://medium.com/block-science/introducing-automated-regression-markets-arms-a-new-price-discovery-mechanism-for-semi-fungible-935d31ca457c)
+
 ### Supply Platforms
 #### [Dovu](https://hedera.com/users/dovu) - Trusted Carbon Offsets Issuance Platform & Marketplace
 - [dovu.earth](https://dovu.earth)
