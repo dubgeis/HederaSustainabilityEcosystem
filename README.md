@@ -22,7 +22,7 @@ A short guide to sustainability focused projects on Hedera
 A deeper glossary of industry terms can be found [here](https://github.com/InterWorkAlliance/Sustainability/blob/main/glossary.md)
 
 ---
-## Ways to make it better (drop your requests below)
+## Ways to make the ecosystem better (Projects listed here make great [HBAR Foundation](hbarfoundation.org) grant candidates)
 - An Interactive Hedera explorer with real time data representations for ESG tokens (ex. [https://txstreet.com/](https://txstreet.com/))
 - An Index scoring all ESG assets on Hedera for data granularity, trust (sensor/manual), and risks
 - Slick Carbon Wallets based on Offsetting Achievements against CET based emissions.
