@@ -7,7 +7,7 @@ A short guide to sustainability focused projects on Hedera
 ***For more up-to-date information, daily discussions and reviews please visit***
 - [Interwork Alliance Sustainability Repo](https://interworkalliance.github.io/Sustainability/)
 - [The Hedera Discord for Developer Chats](https://discord.com/invite/yKSnaMk7Px)
-- [Docs](https://docs.hedera.com/guides/)
+- [Docs](https://docs.hedera.com/guides/) / [Guardian Docs](https://docs.hedera.com/guardian/getting-started/readme)
 - [Is Hedera Carbon Neutral/Negative?](https://hedera.com/blog/going-carbon-negative-at-hedera-hashgraph)
 - [Hedera Environmental Footprint Report by UCL Center for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk/blockchain-energy-consumption/)
 
@@ -15,7 +15,7 @@ A short guide to sustainability focused projects on Hedera
 
 ## Overview
 
-- [The Latest](https://hedera.com/blog/sustainable-building-blocks-with-hedera-hashgraph)
+- [The Latest](https://www.hbarfoundation.org/blog-post/building-on-the-sif-ecosystem)
 ---
 
 ## Glossary
