@@ -85,6 +85,25 @@ These are the application that you would use to work with them to develop, ‘mi
 - Summary: ValueNature is creating a Biodiversity metric and MRV framework to scientifically quantify biodiversity. Using NFTs and FTs coupled with device-level edge monitoring, reporting, and verification we trace verified data to a specific ESG asset and issue our Biodiversity credits.
 
 ### Demand Platforms
+#### [TYMLEZ](https://tymlez.com/) - Guarantee of Origin and Carbon Emissions Reporting
+- [tymlez.com](https://tymlez.com/)
+- Primary Goal: **Guarantee of Origin and Carbon Emissions Reporting**
+- Solutions:
+  * [Guarantee of Origin](https://tymlez.com/guarantee-of-origin)
+  * [ESG Compliance](https://tymlez.com/esg-compliance)
+  * [Smart Energy](https://tymlez.com/smart-energy)
+- Major Partnerships: 
+  * [Lloyd's Register](https://www.lr.org/en/) - Guarantee of origin for green hydrogen and green ammonia
+  * [Magnum Mining and Exploration](https://www.mmel.com.au/) - Guarantee of origin for the green pig iron
+  * [UON](https://uon.com.au/) - Carbon emissions calculation and reporting for mine site dewatering
+  * [Queensland Government](https://www.qld.gov.au/) - Carbon emissions calculation and reporting for buildings
+  * [TROEF](https://www.troef-energy.nl/en/) - A project aimed at decarbonising the Netherlands through energy monitoring and trading solutions
+- Summary: TYMLEZ (ASX:TYM) is a pioneer in the development and delivery of carbon reporting and guarantee of origin solutions built using blockchain technology. TYMLEZ provides companies across the globe with world-class solutions designed to empower them in their decarbonisation journeys.  
+- Hedera Project References:
+  * [Guardian Terraform](https://github.com/Tymlez/guardian-terraform) - Supports single command deployment of the Guardian to AWS/GCP
+  * [Open-Source Guardian Contributions](https://github.com/hashgraph/guardian) - TYMLEZ actively contributes to the development of the Open-Source Guardian
+
+
 #### [SUKU Sustain](https://www.suku.world/suku-omni-1/#omni-sustain) - Supply Chain Environmental Impact Carbon Calculator & Carbon Offset Tool
 - [suku.world](https://www.suku.world/suku-omni-1/#omni-sustain)
 - Primary Goal:  Carbon Calculator/Consumer Exchange
